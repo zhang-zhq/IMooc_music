@@ -1,0 +1,4 @@
+rootProject.name = "MyMusicApp"
+include ':app'
+include ':lib_commin_ui'
+include ':lib_network'
